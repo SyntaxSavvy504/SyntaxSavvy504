@@ -17,11 +17,5 @@ Welcome to my GitHub profile! I'm passionate about technology and always excited
 - 🌐 Open-source contributions
 - 📊 Data-driven applications
 
-## 😄 Pronouns: He/Him
-
-## ⚡ Fun fact:
-- I once wrote a Python script that can automatically generate a joke every day! 🎉
-
----
 
 
