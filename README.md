@@ -37,10 +37,5 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and a
 
 ---
 
-## 📫 **How to Reach Me**  
-- 💬 **Twitter**: [@SyntaxSavvy504](https://twitter.com/SyntaxSavvy504)  
-- 📧 **Email**: [youremail@example.com](mailto:youremail@example.com)  
-
----
 
 Thanks for visiting my GitHub profile! Feel free to check out my repositories and open issues for collaboration opportunities. Let's build something amazing together! 🚀
