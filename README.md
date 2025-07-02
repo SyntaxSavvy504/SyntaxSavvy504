@@ -36,14 +36,6 @@ class SyntaxSavvy504:
 
 ---
 
-## 🛠️ Projects Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyntaxSavvy504&repo=your-cool-project&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SyntaxSavvy504&repo=another-great-repo&theme=radical" />
-</p>
-
----
-
 ## 🔍 My Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,docker,vscode,figma" />
