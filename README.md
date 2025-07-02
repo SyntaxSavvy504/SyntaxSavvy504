@@ -1,41 +1,73 @@
-# 👋 Hi, I’m @SyntaxSavvy504
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Wake+up,+Neo...;You+are+%40SyntaxSavvy504;Welcome+to+The+Matrix" alt="Typing SVG" />
+</h1>
 
-Welcome to my GitHub profile! I'm passionate about technology, innovation, and always excited to collaborate on new projects. Here's a little more about me:
-
----
-
-## 👀 **What I'm Interested In**  
-- 🌍 **Exploring New Technologies**  
-- 🤖 **Building Cool Apps and Systems**  
-- 📚 **Learning & Sharing Knowledge**
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlPjezGY5rKQWzG/giphy.gif" width="320" />
+</p>
 
 ---
 
-## 🌱 **Currently Learning**  
-- 🐍 **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- 💻 **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)  
-- 🖥️ **Computer Applications**  
+## 🧑‍💻 Who Am I
+<div align="center">
+
+```python
+class MatrixNeo:
+    def __init__(self):
+        self.alias = "@SyntaxSavvy504"
+        self.skills = ["Python", "JavaScript", "React", "Flask", "Django"]
+        self.current_learning = ["AI", "Matrix-Level Logic"]
+        self.mission = "Hack reality with clean code."
+
+    def red_pill(self):
+        return "You're now deep in the code."
+```
+</div>
 
 ---
 
-## 💞️ **Looking to Collaborate On**  
-- 🚀 **Innovative Tech Projects**  
-- 🌐 **Open-Source Contributions**  
-- 📊 **Data-Driven Applications**  
+## ✨ Skill Matrix
+<p align="center" style="background:#111;padding:10px;border-radius:8px">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,django,git,vscode,html,css," />
+</p>
 
 ---
 
-## 🔧 **Technologies & Tools I Use**  
-- 💻 **Languages**: Python, JavaScript, HTML/CSS, SQL  
-- 🛠️ **Frameworks & Libraries**: React, Node.js, Flask, Django  
-- 🧰 **Tools**: Git, GitHub, Docker, VS Code, Jupyter
+## 📊 System Monitoring
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyntaxSavvy504&show_icons=true&theme=matrix&hide=prs&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyntaxSavvy504&theme=matrix" />
+</p>
 
 ---
 
-## 📈 **My GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyntaxSavvy504&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+## 🤖 Language Frequencies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntaxSavvy504&layout=compact&theme=matrix" />
+</p>
 
 ---
 
+## 🤟 Network Activity Grid
+<p align="center">
+  <img src="https://github-contribution-graph.ezra.fun/api?username=SyntaxSavvy504&color=00ff41&bg=000000&radius=10" />
+</p>
 
-Thanks for visiting my GitHub profile! Feel free to check out my repositories and open issues for collaboration opportunities. Let's build something amazing together! 🚀
+---
+
+## 🔍 Data Stream: Now Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matrix%20Logic-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
+
+---
+
+## ✨ Welcome to the Codeverse
+<p align="center">
+  <em>"There is no spoon... only logic."</em>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=The+Matrix+Is+Coding...&fontColor=00FF41" />
+</p>
